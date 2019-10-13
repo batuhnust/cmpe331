@@ -4,6 +4,6 @@ Batuhan Selim USTA
 
 GURUR BİLİCİ ----> Searching Codes of Projects
 
-HAMDİ KILIÇ
+HAMDİ KILIÇ------> Searching QR code reader machine structure
 
-faruk harbeed
+faruk harbeed------> Searching QR code reader machine structure
